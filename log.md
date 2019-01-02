@@ -18,4 +18,17 @@
 
 **Today's Progress**: I've practiced manipulating HTML objects with the DOM API, using methods of the document object like getElementById(), getElementsByTagName(), querySelector() and querySelectorAll(). I've also reviewed arrays and how to display every items using a "for" loop.
 
+### Day 4: December 30, 2018
 
+**Today's Progress**: I've followed a tutorial to learn how to properly use #Git with the terminal in UNIX. I've also kept on practicing manipulating DOM objects with JS.
+
+**Thoughts:** I really enjoy using the terminal.
+
+### Day 5: December 31, 2018
+**Today's Progress**: I did nothing ! Also, good bye 2018.
+
+### Day 6: January 1st, 2019
+**Today's Progress**: Studied the DOM API in JS. 
+
+### Day 7: January 2, 2019
+**Today's Progress**: First day of school at the 3wa, Paris France. We've studied basic HTML and CSS. Nothing new for me so far. 
