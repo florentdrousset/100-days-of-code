@@ -31,4 +31,7 @@
 **Today's Progress**: Studied the DOM API in JS. 
 
 ### Day 7: January 2, 2019
-**Today's Progress**: First day of school at the 3wa, Paris France. We've studied basic HTML and CSS. Nothing new for me so far. 
+**Today's Progress**: First day of school at the 3wa, Paris France. We've studied basic HTML and CSS. Nothing new for me so far.
+
+### Day 8: January 3, 2019
+**Today's Progress**: We have practiced integrating a simple design with different fonts using the @font-face property.
