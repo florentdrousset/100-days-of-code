@@ -35,3 +35,22 @@
 
 ### Day 8: January 3, 2019
 **Today's Progress**: We have practiced integrating a simple design with different fonts using the @font-face property.
+
+### Day 9: January 4, 2019
+**Today's Progress**: At school we've studied the float property.
+
+**Thoughts**: It was interesting because I've never used the float property besides the "text wrapping an image" feature. I have to remember the "empty div with clear" trick. 
+
+### Day 10: January 5, 2019
+**Today's Progress**: I've just revised everything we did at school this week.
+
+### Day 11: January 6, 2019
+**Today's Progress**: I've practiced 8kyu challenges on CodeWars.
+
+**Thoughts**: It was a bit frustrating but also exciting. I have to learn more about JS native methods.
+
+## Day 12: January 7, 2019
+**Today's Progress**: At school we've studied the inline-block property in CSS.**Thoughts**: I have to remember to use the vertical align. And also negative margins to get an element out of a block. Very useful !
+
+## Day 13: January 8, 2019
+**Today's Progress**
