@@ -53,4 +53,9 @@
 **Today's Progress**: At school we've studied the inline-block property in CSS.**Thoughts**: I have to remember to use the vertical align. And also negative margins to get an element out of a block. Very useful !
 
 ## Day 13: January 8, 2019
-**Today's Progress**
+**Today's Progress**: At school we've practiced creating simple layouts with float and display:inline-block. We've also learned about box-sizing properties and the normalize.css standard.
+
+**Thoughts**: REMEMBER background-size (contain/cover) and and background-position in CSS. And also the <!-- --> trick to cancel space between two divs !
+
+##Day 14: January 9, 2019
+**Today's Progress**:
