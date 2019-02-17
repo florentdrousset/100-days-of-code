@@ -224,6 +224,7 @@ At school we've studied tables and forms in HTML/CSS, and also attributes select
 **Today's Progress**: I've learned how to build constructors in Javascript to create instances of an object. I've also _finally_ learned Markdown syntax.
 
 **Examples**: 
+
 	```
   function Person(firstName, lastName, age, friends) {
       this.firstName = firstName;
@@ -240,6 +241,9 @@ At school we've studied tables and forms in HTML/CSS, and also attributes select
   var alex = new Person('Alexandre', 'Butlen', 28, []);
 
   florent.addFriend('John', 'Doe', 30);
-  console.log(florent.friends[0].lastName);	```
+  console.log(florent.friends[0].lastName);	
+  
+  ```
+
 
 
