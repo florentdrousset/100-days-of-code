@@ -218,3 +218,27 @@ At school we've studied tables and forms in HTML/CSS, and also attributes select
 ## Day 51, February 16, 2019
 
 **Today's Progress**: Saturday. I've been studying a bit of jQuery on my own.
+
+## Day 52, February 17, 2019
+
+**Today's Progress**: I've learned how to build constructors in Javascript to create instances of an object. I've also _finally_ learned Markdown syntax.
+
+**Examples**: 
+  function Person(firstName, lastName, age, friends) {
+      this.firstName = firstName;
+      this.lastName = lastName;
+      this.age = age;
+      this.friends = friends;
+      this.addFriend = function(firstName, lastName, age, friends) {
+          this.friends.push(new Person(firstName, lastName, age, friends));
+      }
+    }
+
+  var florent = new Person('Florent', 'Drousset', 30, []);
+
+  var alex = new Person('Alexandre', 'Butlen', 28, []);
+
+  florent.addFriend('John', 'Doe', 30);
+  console.log(florent.friends[0].lastName);
+
+
