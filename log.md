@@ -225,25 +225,25 @@ At school we've studied tables and forms in HTML/CSS, and also attributes select
 
 **Examples**: 
 
-	```
-  function Person(firstName, lastName, age, friends) {
-      this.firstName = firstName;
-      this.lastName = lastName;
-      this.age = age;
-      this.friends = friends;
-      this.addFriend = function(firstName, lastName, age, friends) {
-          this.friends.push(new Person(firstName, lastName, age, friends));
-      }
+```
+function Person(firstName, lastName, age, friends) {
+    this.firstName = firstName;
+    this.lastName = lastName;
+    this.age = age;
+    this.friends = friends;
+    this.addFriend = function(firstName, lastName, age, friends) {
+        this.friends.push(new Person(firstName, lastName, age, friends));
     }
+}
 
-  var florent = new Person('Florent', 'Drousset', 30, []);
+var florent = new Person('Florent', 'Drousset', 30, []);
 
-  var alex = new Person('Alexandre', 'Butlen', 28, []);
+var alex = new Person('Alexandre', 'Butlen', 28, []);
 
-  florent.addFriend('John', 'Doe', 30);
-  console.log(florent.friends[0].lastName);	
-  
-  ```
+florent.addFriend('Lili', 'Saitou', 30);
+console.log(florent);
+console.log(florent.friends[0].lastName);
+```
 
 
 
