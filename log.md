@@ -165,7 +165,7 @@ At school we've studied tables and forms in HTML/CSS, and also attributes select
 
 ## Day 38, February 3, 2019
 
-**Today's Progress**: Spent most of my day making a to-do list with PHP. Got stuck a long time on figuring out how to parse my csv file into a multidimensional array. (Stack Overflow got my back though)[https://stackoverflow.com/questions/54506304/how-to-parse-a-csv-file-into-a-multidimensional-array-in-php]
+**Today's Progress**: Spent most of my day making a to-do list with PHP. Got stuck a long time on figuring out how to parse my csv file into a multidimensional array. [Stack Overflow got my back though](https://stackoverflow.com/questions/54506304/how-to-parse-a-csv-file-into-a-multidimensional-array-in-php)
 
 ## Day 39, February 4, 2019
 
