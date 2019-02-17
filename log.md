@@ -240,8 +240,7 @@ var florent = new Person('Florent', 'Drousset', 30, []);
 
 var alex = new Person('Alexandre', 'Butlen', 28, []);
 
-florent.addFriend('Lili', 'Saitou', 30);
-console.log(florent);
+florent.addFriend('John', 'Doe', 30);
 console.log(florent.friends[0].lastName);
 ```
 
