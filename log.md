@@ -215,6 +215,24 @@ At school we've studied tables and forms in HTML/CSS, and also attributes select
 
 **Today's Progress**: I can't believe I'm already halfway there ! Time flies fast, especially when you're having fun I guess. At school we had to make a simple AJAX application.
 
+```
+// La réponse HTTP contient du JSON qui a été automatiquement désérialisé par jQuery.
+
+    // Création d'une liste HTML dans la page.
+    $('#target').empty().append('<ul>');
+
+    for(index = 0; index < contactList.length; index++)
+    {
+        // Insertion d'un contact dans la liste HTML.
+        $('<li>').append
+        (
+            '<p><strong>Prénom</strong> : ' + contactList[index].firstName + '</p>',
+            '<p><em>Téléphone</em> : '      + contactList[index].phone     + '</p>'
+        ).appendTo('#target ul');
+    }
+}
+```
+
 ## Day 51, February 16, 2019
 
 **Today's Progress**: Saturday. I've been studying a bit of jQuery on my own.
