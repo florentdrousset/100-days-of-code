@@ -262,5 +262,36 @@ florent.addFriend('John', 'Doe', 30);
 console.log(florent.friends[0].lastName);
 ```
 
+## Day 53, February 18, 2019
+
+**Today's Progress**: We've started studying OOP in JS, and also started having fun with the Canvas element.
+
+## Day 54, February 19, 2019
+
+In school we had to make a "Paint"-like program in #JS with the canvas element. It's so hard for me to think in #OOP. Has anyone good tutorials about OOP ?
+
+## Day 55, February 20, 2019
+
+We've kept on studying OOP in JD.
+
+## Day 56, February 21, 2019
+
+We've started studying WordPress at school. Seems like an intersting tool, but I'm not having much fun so far.
+
+## Day 57, February 22, 2019
+
+Today I've studied object oriented PHP on my own. Learned about classes, private/public/protected attributes and methods, and `__constructor`.
+
+## Day 58, February 23, 2019
+
+Saturday. I have continued studying object oriented PHP and learned about namespaces. I also finally started to take notes with TiddlyWiki, as @listnux suggested, it's a great tool.
+
+## Day 59, February 24, 2019
+
+Sunday. Didn't do much today.
+
+## Day 60, February 25
+
+I've studied #MVC design pattern in PHP. It's very intersting but still a bit confusing for me. I used to code so carelessly and was happy when my script was working, but now I'm trying to code in a cleaner way and I'm having more trouble taking decisions.
 
 
