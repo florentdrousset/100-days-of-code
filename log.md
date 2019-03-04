@@ -294,4 +294,6 @@ Sunday. Didn't do much today.
 
 I've studied #MVC design pattern in PHP. It's very intersting but still a bit confusing for me. I used to code so carelessly and was happy when my script was working, but now I'm trying to code in a cleaner way and I'm having more trouble taking decisions.
 
+test VCS
+
 
